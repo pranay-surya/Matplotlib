@@ -1,8 +1,8 @@
 # Data Visualization Practice ( Matplotlib )
 
-This repository contains **basic Matplotlib practice files** focused on understanding **line plots and double line plots** using Python.
+This repository contains **basic Matplotlib practice files** focused on understanding **some basic plotting** using Python.
 
-Currently, the repository includes **two files** demonstrating fundamental plotting concepts.
+This repository ongoing.
 
 ---
 
