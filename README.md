@@ -10,7 +10,9 @@ This repository ongoing.
 
 - Basic Visualization with Title, labels, legend, and plot customization (color, marker, linestyle)   
 - Line Plot  
-- Double Line Plot  
+- Double Line Plot
+- Histogram
+- Bar chart
  
  ---
 
