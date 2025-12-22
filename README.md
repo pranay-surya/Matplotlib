@@ -13,6 +13,8 @@ This repository ongoing.
 - Double Line Plot
 - Histogram
 - Bar chart
+- Scatter plot
+- Pie chart 
  
  ---
 
