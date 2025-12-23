@@ -14,7 +14,9 @@ This repository ongoing.
 - Histogram
 - Bar chart
 - Scatter plot
-- Pie chart 
+- Pie chart
+- Box Plot
+  
  
  ---
 
