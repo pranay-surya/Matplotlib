@@ -1,8 +1,6 @@
 # Data Visualization Practice ( Matplotlib )
 
-This repository contains **basic Matplotlib practice files** focused on understanding **some basic plotting** using Python.
-
-This repository ongoing.
+This repository contains a complete collection of Matplotlib practice files focused on understanding and implementing essential plotting and data visualization concepts using Python.
 
 ---
 
@@ -16,9 +14,14 @@ This repository ongoing.
 - Scatter plot
 - Pie chart
 - Box Plot
+- Subplot
   
  
  ---
+
+## Visualization
+![Matplotlib Visualization](Figure_2_mat.png)
+
 
 ## Tech Stack
  
